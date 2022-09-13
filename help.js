@@ -215,11 +215,10 @@ exports.textdonasi = (sender, prefix) => {
 return `*DONASI BOT*
 
 *E-walet Monay :*
-➭ Dana : 0857-8900-4732
-➭ Ovo : 0857-8900-4732
-➭ Gopay : 08xxxxxxxxx
-➭ Pulsa : 0857-8900-4732
+➭ Dana : 0882-1391-0439
+➭ Ovo : 0882-1391-0439
+➭ Gopay : 081319392324
+➭ Pulsa : 0813-1939-2423
     
-*Qris All Payment :*
-https://telegra.ph/file/d015def9028eb1c0a156b.jpg`
+*Qris All Payment :* https://drive.google.com/file/d/1y1RwYrN9lQwz0vXAQdfqTXc2BVuivyy0/view?usp=drivesdk.jpg`
 }
